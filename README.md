@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **Python, AWS**
 
-- 📫 How to reach me **sasha.kayz@gmail.com**
-
 - 📄 Know about my experiences [https://sashakarangura.tiiny.site/](https://sashakarangura.tiiny.site/)
 
 - ⚡ Fun fact **Sports fanatic, introvert, tech junkie**
