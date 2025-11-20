@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasha Karangura</h1>
-<h3 align="center">A cloud and tech enthusiast from Zimbabwe</h3>
+<h3 align="center">A cloud and tech enthusiast from Zim 🇿🇼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svshv&label=Profile%20views&color=0e75b6&style=flat" alt="svshv" /> </p>
 
@@ -7,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/svshvkayz" target="blank"><img src="https://img.shields.io/twitter/follow/svshvkayz?logo=twitter&style=for-the-badge" alt="svshvkayz" /></a> </p>
 
-- 🔭 I’m currently working on **A blogsite**
+- 🔭 I’m currently working on **bettering my skills in AI and K8s**
 
-- 🌱 I’m currently learning **Cloud Computing, Terraform, k8s, AWS, Telco Cloud**
+- 🌱 I’m currently learning **Agentic AI, Cloud Computing, GCP, k8s, Telco Cloud and 5G architecture**
 
-- 👯 I’m looking to collaborate on **Cloud projects, Web development**
-
-- 🤝 I’m looking for help with **DevOps, k8s & Terraform**
+- 👯 I’m looking to collaborate on **Cloud-related projects**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/yc4c3tsz](https://tinyurl.com/yc4c3tsz)
 
-- 💬 Ask me about **Python, AWS**
+- 💬 Ask me about **Always happy to learn something new**
 
 - 📄 Know about my experiences [https://sashakarangura.tiiny.site/](https://sashakarangura.tiiny.site/)
 
-- ⚡ Fun fact **Sports fanatic, introvert, tech junkie**
+- ⚡ Fun fact **Sports fanatic 🏅, introvert, tech bro 🧑‍💻, a bit of a foodie 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
